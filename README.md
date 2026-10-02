@@ -1,0 +1,3 @@
+solved :
+percentage 
+discount
